@@ -13,11 +13,13 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: 'https://KIN1019.github.io',
+  baseUrl: '/BillyDocs/',
 
-  organizationName: 'cyruscheung',
-  projectName: 'ai-infra-notes',
+  organizationName: 'KIN1019',
+  projectName: 'BillyDocs',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
 
