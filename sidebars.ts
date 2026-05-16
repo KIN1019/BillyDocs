@@ -13,7 +13,6 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'ai-infra/master',
-        'ai-infra/thematic',
         'ai-infra/7cats',
         'ai-infra/top4',
         'ai-infra/bottleneck',
